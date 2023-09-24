@@ -7,3 +7,12 @@ h1{
   font-weight:5000;
   text-align: center;
 }
+nav {
+  display:flex;
+  background-color:#04b1e0;
+  flex-direction: row;
+  justify-content: space-between;
+  padding:4px;
+  margin:25px;
+  flex-basis:auto;
+}
