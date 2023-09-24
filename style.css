@@ -12,7 +12,7 @@ nav {
   background-color:#04b1e0;
   flex-direction: row;
   justify-content: space-between;
-  padding:4px;
-  margin:25px;
+  padding:4;
+  margin:25;
   flex-basis:auto;
 }
