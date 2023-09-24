@@ -14,6 +14,7 @@ nav {
   justify-content: space-between;
   padding:4 px;
   margin:25 px;
+  flex-basis:auto;
 }
 h3{
 color:#04b1e0;
