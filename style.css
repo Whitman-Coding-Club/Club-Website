@@ -1,5 +1,5 @@
 body {
-  background-Color:#fcfaf2;
+  background-color:#fcfaf2;
   
 }
 h1{
@@ -8,11 +8,11 @@ h1{
   text-align: center;
 }
 nav {
-  display:flex;
+  display: flex;
   flex-direction: row;
   justify-content: space-between;
   margin:25px;
-  flex-basis:auto;
+  flex-basis: auto;
 }
 div{
   background-color:#048ab7;
@@ -20,7 +20,7 @@ div{
 }
 h3{
 color:#04b1e0;
-  font-size:100px;
-  display:flex;
-  text-align:center;
+  font-size:100;
+  display: flex;
+  text-align: center;
 }
