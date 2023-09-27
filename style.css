@@ -4,23 +4,23 @@ body {
 }
 h1{
   color:#04b1e0;
-  font-size:1000 px;
+  font-size:1000px;
   text-align: center;
 }
 nav {
   display: flex;
   flex-direction: row;
   justify-content: space-between;
-  margin:50 px;
+  margin:50px;
   flex-basis: auto;
 }
 div{
   background-color:#048ab7;
-  padding:8 px;
+  padding:8px;
 }
 h3{
 color:#04b1e0;
-  font-size:100 px;
+  font-size:100px;
   display: flex;
   text-align: center;
 }
