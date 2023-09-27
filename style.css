@@ -11,7 +11,7 @@ nav {
   display: flex;
   flex-direction: row;
   justify-content: space-between;
-  margin:100px;
+  margin:110px;
   flex-basis: auto;
 }
 div{
