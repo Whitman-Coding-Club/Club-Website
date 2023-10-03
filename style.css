@@ -1,9 +1,14 @@
 body {
   background-color:#fcfaf2;
 }
-h1{
+h2{
   color:#04b1e0;
   font-size:145 px;
+  text-align: center;
+
+h1{
+  color:#04b1e0;
+  font-size:220 px;
   text-align: center;
 }
 nav {
@@ -11,13 +16,13 @@ nav {
   flex-direction: row;
   justify-content: space-between;
   text-align: center;
-  margin:15 px;
   flex-basis: auto;
 }
 div{
   background-color:#048ab7;
-  padding:12 px;
+  padding:20 px;
   border-radius: 60 px;
+  margin:15 px;
 }
 h3{
 color:#04b1e0;
