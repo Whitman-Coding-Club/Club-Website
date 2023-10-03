@@ -3,7 +3,7 @@ body {
 }
 h1{
   color:#04b1e0;
-  font-size:145px;
+  font-size:145 px;
   text-align: center;
 }
 nav {
@@ -11,17 +11,17 @@ nav {
   flex-direction: row;
   justify-content: space-between;
   text-align: center;
-  margin:15px;
+  margin:15 px;
   flex-basis: auto;
 }
 div{
   background-color:#048ab7;
-  padding:12px;
-  border-radius: 60px;
+  padding:12 px;
+  border-radius: 60 px;
 }
 h3{
 color:#04b1e0;
-  font-size:35px;
+  font-size:35 px;
   display: flex;
   text-align: center;
 }
