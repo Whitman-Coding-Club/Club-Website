@@ -4,7 +4,7 @@ body {
 }
 h1{
   color:#04b1e0;
-  font-size:200px;
+  font-size:145px;
   text-align: center;
 }
 nav {
@@ -12,16 +12,17 @@ nav {
   flex-direction: row;
   justify-content: space-between;
   text-align: center;
-  margin:20px;
+  margin:15px;
   flex-basis: auto;
 }
 div{
   background-color:#048ab7;
   padding:12px;
+  border-radius: 60px;
 }
 h3{
 color:#04b1e0;
-  font-size:50px;
+  font-size:35px;
   display: flex;
   text-align: center;
 }
