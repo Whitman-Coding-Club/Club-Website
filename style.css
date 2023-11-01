@@ -3,12 +3,12 @@ body {
 }
 h2{
   color:#04b1e0;
-  font-size:145 px;
+  font-size:160 px;
   text-align: center;
 }
 h1{
   color:#04b1e0;
-  font-size:220 px;
+  font-size:240 px;
   text-align: center;
 }
 nav {
@@ -20,13 +20,13 @@ nav {
 }
 div{
   background-color:#048ab7;
-  padding:35 px;
+  padding: 35 px;
   border-radius: 70 px;
   margin:5 px;
 }
 h3{
 color:#04b1e0;
-  font-size:45 px;
+  font-size:5 px;
   display: flex;
   text-align: center;
 }
