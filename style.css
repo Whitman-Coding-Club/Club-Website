@@ -30,3 +30,8 @@ color:#04b1e0;
   display: flex;
   text-align: center;
 }
+p{
+  display: flex;
+  text-align:center;
+  margin: 10 px;
+}
