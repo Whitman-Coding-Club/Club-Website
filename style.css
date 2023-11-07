@@ -16,7 +16,6 @@ nav {
   flex-direction: row;
   justify-content: space-between;
   text-align: center;
-  flex-basis: auto;
 }
 div{
   background-color:#048ab7;
@@ -33,6 +32,5 @@ color:#04b1e0;
 p{
   display: flex;
   text-align: center;
-  flex-basis: auto;
   margin: 10 px;
 }
