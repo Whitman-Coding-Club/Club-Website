@@ -1,14 +1,14 @@
 body {
-  background-color:#fcfaf2;
+  background-color:#fffdf7;
 }
 h2{
   color:#04b1e0;
-  font-size:160 px;
+  font-size:180 px;
   text-align: center;
 }
 h1{
   color:#04b1e0;
-  font-size:240 px;
+  font-size:255 px;
   text-align: center;
 }
 nav {
@@ -33,5 +33,6 @@ color:#04b1e0;
 p{
   display: flex;
   text-align: center;
+  flex-basis: auto;
   margin: 10 px;
 }
