@@ -16,13 +16,12 @@ nav {
   flex-direction: row;
   justify-content: space-between;
   text-align: center;
-}
-div{
-  background-color:#048ab7;
+    background-color:#048ab7;
   padding: 55 px;
   border-radius: 95 px;
+}
+div{
   margin:5 px;
-  
 }
 h3{
 color:#04b1e0;
