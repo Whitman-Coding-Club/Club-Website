@@ -14,10 +14,9 @@ h1{
 nav {
   display: flex;
   flex-direction: row;
-  justify-content: space-between;
   text-align: center;
-    background-color:#048ab7;
-  padding: 55 px;
+  background-color:#048ab7;
+  padding: 155 px;
   border-radius: 95 px;
 }
 div{
